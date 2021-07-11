@@ -12,4 +12,12 @@ Download:
 3.  [DayZ Launcher](https://dayzlauncher.com/)
 4.  [DayZ Epoch 1.0.7](https://epochmod.com/a2dayzepoch.php)
 
+
+
+Added:
+* Infistar Anti-Hack
+
+
+Changed:
+
 Join server: `[EU] Volt.cx | DayZ Epoch Chernarus Server (1.0.7/144629)`
