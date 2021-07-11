@@ -1,7 +1,7 @@
 # arma-2
 
 
-![https://media.discordapp.net/attachments/852723390624169997/863770084187176970/Untitled-22.png?width=960&height=158]
+![https://media.discordapp.net/attachments/852723390624169997/863770084187176970/Untitled-22.png]
 
 
 **Hello and welcome to dayz epoch Volt.cx**
