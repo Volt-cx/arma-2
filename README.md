@@ -18,6 +18,8 @@ Join server: `[EU] Volt.cx | DayZ Epoch Chernarus Server (1.0.7/144629)`
 ### Added:
 * [Infistar](https://infistar.de/)
 * [ESSV3](https://github.com/AirwavesMan/ESSV3)
+* [epoch-right-click-actions](https://github.com/AirwavesMan/epoch-right-click-actions)
+* [deployAnything](https://github.com/oiad/deployAnything)
 
 
 ### Changed:
