@@ -21,14 +21,15 @@ Join server: `[EU] Volt.cx | DayZ Epoch Chernarus Server (1.0.7/144629)`
 
 
 ### Changed:
-
+* 0
+* 1
 
 
 #### Server Settings:
 * There should be no loot around the trader zones
 * Tools like crowbar, sledgehammer and pickaxe have chance to break
 * Knives need to be sharpened after so many uses.
-* match stick counts. So after five uses matches run out and must be replaced.
+* Match stick counts. So after five uses matches run out and must be replaced.
 * Water bottles have a chance to break when boiling and require duct tape to fix
 
 
@@ -36,5 +37,4 @@ Join server: `[EU] Volt.cx | DayZ Epoch Chernarus Server (1.0.7/144629)`
 * 02 AmmoBoxes
 * 05 MaxMineVeins
 * 50 Vehicles (bikes,atvs,cars)
-* 10 Debris
 
