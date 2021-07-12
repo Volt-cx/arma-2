@@ -12,7 +12,7 @@
 3.  [DayZ Launcher](https://dayzlauncher.com/)
 4.  [DayZ Epoch 1.0.7](https://epochmod.com/a2dayzepoch.php)
 
-Join server: `[EU] Volt.cx | DayZ Epoch Chernarus Server (1.0.7/144629)`
+Join server: `[EU] Volt.cx | DayZ Epoch 1.0.7 Chernarus Server`
 
 
 ### Added:
