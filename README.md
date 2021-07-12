@@ -33,7 +33,7 @@ Join server: `[EU] Volt.cx | DayZ Epoch Chernarus Server (1.0.7/144629)`
 
 
 **Spawn cycle:**
-* 03 AmmoBoxes
+* 02 AmmoBoxes
 * 05 MaxMineVeins
 * 50 Vehicles (bikes,atvs,cars)
 * 10 Debris
